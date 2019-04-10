@@ -3,16 +3,16 @@ Make your debugging more fun
 
 ## Install
 ```
-npm install console.lol
+npm install lol.console
 ```
 ```
-yarn add console.lol
+yarn add lol.console
 ```
 
 ## Usage
 
 ```javascript
-import 'console.lol';
+import 'lol.console';
 
 console.lol({ foo: 1}, 'Hello');
 ```
